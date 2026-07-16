@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Meenakshi Vejendla
 
-🎓 B.Tech CSE (AI & ML) Student @ VIT AP University
+🎓 B.Tech CSE (AI & ML) Student at VIT AP University
 💡 Passionate about Artificial Intelligence, Machine Learning, Software Development,Web Development and Problem Solving
 ☁️ AWS & Azure Certified
 💻 Python | Java | Data Structures & Algorithms | Deep Learning | HTML | CSS | JAVASCRIP | REACT JS |
@@ -20,26 +20,7 @@ Currently focusing on:
 * Data Structures & Algorithms (Placement Preparation)
 * Software Development 
 
----
 
-## 🧠 Projects
-
-🌟 **Obesity Prediction using Random Forest**
-
-* Built a multi class ML model predicting 7 obesity levels
-* Achieved ~94% testing accuracy
-* Feature importance analysis & visualization
-
-🌿 **Plant Disease Detection using Hybrid CNN–Transformer**
-
-* Dual backbone architecture (EfficientNetB0 + MobileNetV2)
-* Attention mechanisms + GradCAM++ explainability
-* 98.75% accuracy with real-time detection
-
-🌐 **Restaurant Reservation Frontend**
-
-* React.js based responsive UI project
-* Component-based architecture
 
 ---
 
@@ -53,13 +34,7 @@ Currently focusing on:
 
 ---
 
-## 📊 Currently Learning
 
-* Advanced DSA
-* System Design Basics
-* Interview Preparation
-
----
 
 ## 📫 Connect with me
 
