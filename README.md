@@ -42,4 +42,3 @@ LinkedIn: [www.linkedin.com/in/meenakshi-vejendla-223ab325b](http://www.linkedin
 
 ---
 
-⭐ *I believe technology should not just be intelligent — it should be useful.*
